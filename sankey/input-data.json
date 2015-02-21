@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {"name": "Alpha"},
+    {"name": "Bravo"},
+    {"name": "Charlie"},
+    {"name": "Delta"},
+    {"name": "Echo"},
+    {"name": "Foxtrot"},
+    {"name": "Golf"},
+    {"name": "Hotel"},
+    {"name": "Indigo"},
+    {"name": "Juliet"},
+    {"name": "Kilo"},
+    {"name": "Lima"},
+    {"name": "Mike"},
+    {"name": "November"},
+    {"name": "Oscar"},
+    {"name": "Papa"},
+    {"name": "Quebec"},
+    {"name": "Romeo"},
+    {"name": "Sierra"},
+    {"name": "Tango"},
+    {"name": "Uniform"},
+    {"name": "Victor"},
+    {"name": "Whiskey"},
+    {"name": "Xray"},
+    {"name": "Yankee"},
+    {"name": "Zulu"}
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 100
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "value": 10
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 23
+    }
+
+  ]
+}
